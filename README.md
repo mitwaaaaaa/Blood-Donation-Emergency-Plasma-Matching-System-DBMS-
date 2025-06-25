@@ -17,8 +17,3 @@ The system uses MySQL with these core tables:
 - `Blood_Pack` - Inventory management
 - `Notification` - Emergency alert system
 - `Donation_Event` - Blood drive coordination
-
-## Installation
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/mitwaaaaaa/blood-donation-dbms.git
